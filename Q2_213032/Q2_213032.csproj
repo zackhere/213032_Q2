@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\213032\Desktop\Coal lab mid\213032.cs" Link="213032.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+    <Folder Include="Views\Doctors\Index.cshtml\" />
+    <Folder Include="Views\Doctors\Create.cshtml\" />
+    <Folder Include="Views\Doctors\Edit.cshtml\" />
+    <Folder Include="Views\Doctors\Details.cshtml\" />
+    <Folder Include="Views\Patients\Index.cshtml\" />
+    <Folder Include="Views\Patients\Create.cshtml\" />
+    <Folder Include="Views\Patients\Edit.cshtml\" />
+    <Folder Include="Views\Patients\Deatils.cshtml\" />
+    <Folder Include="Views\Receptionist\Appointments.cshtml\" />
+    <Folder Include="Views\Receptionist\Schedule.cshtml\" />
+    <Folder Include="wwwroot\lib\bootstrap\NewFolder\" />
+  </ItemGroup>
+
+</Project>
